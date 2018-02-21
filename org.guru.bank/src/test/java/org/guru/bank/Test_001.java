@@ -6,7 +6,7 @@ public class Test_001 {
 	@Test
 	public void chk()
 	{
-		System.out.println("Welcome to the Maven World");
+		System.out.println("Welcome to the New Maven World");
 	}
 
 }
